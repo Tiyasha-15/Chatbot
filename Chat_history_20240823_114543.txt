@@ -1,0 +1,4 @@
+You: hi
+Bot: Good to see you again
+You: hi
+Bot: Hi there, how can I help?
